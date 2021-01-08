@@ -8,16 +8,20 @@
 # Screenshot
 
 - Home Screen
-![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/home.png)
+![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/home.jpeg)
+
 
 - QR Scanner
-![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/qr.png)
+![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/qr.jpeg)
+
 
 - Manual Menu
-![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/manual.png)
+![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/manual.jpeg)
+
 
 - IP nodemcu
-![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/ip.png)
+![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/ip.jpeg)
+
 
 # Tools yang di perlukan
 
