@@ -54,8 +54,8 @@ https://create.arduino.cc/projecthub/pibots555/how-to-connect-dht11-sensor-with-
 2. buka arduino ide
 3. open file dan masukan script magerproject.ino
 4. compile program nya
-![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/ide.png)
+<img src="https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/ide.png"/>
 5. Buka Serial Monitor dan tuggu sampai ip nodemcu muncul
-<img src="https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/ipnode.png" width="250px"/>
+<img src="https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/ipnode.png"/>
 6. Selesai
 </pre>
