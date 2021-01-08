@@ -22,6 +22,8 @@
 - IP nodemcu
 <img src="https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/ip.jpeg" width="250px"/>
 
+# Skematik
+<img src="https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/skematik.png" width="450px"/>
 
 # Tools yang di perlukan
 
@@ -54,6 +56,6 @@ https://create.arduino.cc/projecthub/pibots555/how-to-connect-dht11-sensor-with-
 4. compile program nya
 ![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/ide.png)
 5. Buka Serial Monitor dan tuggu sampai ip nodemcu muncul
-![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/ipnode.png)
+<img src="https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/ipnode.png" width="250px"/>
 6. Selesai
 </pre>
