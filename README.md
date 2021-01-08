@@ -12,15 +12,15 @@
 
 
 - QR Scanner
-![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/qr.jpeg)
+<img src="https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/qr.jpeg" width="250px"/>
 
 
 - Manual Menu
-![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/manual.jpeg)
+<img src="https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/manual.jpeg" width="250px"/>
 
 
 - IP nodemcu
-![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/ip.jpeg)
+<img src="https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/ip.jpeg" width="250px"/>
 
 
 # Tools yang di perlukan
