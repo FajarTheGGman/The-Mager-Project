@@ -3,7 +3,7 @@
 
 ![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/banner.png)
 
-![](https://img.shields.io/badge/React-Native-blue?style=for-the-badge&logo=appveyor) ![](httpshttps://img.shields.io/badge/MicroController-Nodemcu-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/React-Native-blue?style=for-the-badge&logo=appveyor) ![](https://img.shields.io/badge/MicroController-Nodemcu-yellow?style=for-the-badge)
 
 # Screenshot
 
