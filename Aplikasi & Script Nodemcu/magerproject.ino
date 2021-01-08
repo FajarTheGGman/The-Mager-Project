@@ -8,8 +8,8 @@
 DHT temperature(D7, DHT11);
 
 // nama ssid dan password ssid
-char* wifi = "ServerIOT";
-char* password = "fajarfirdaus";
+char* wifi = "nama WiFi lu";
+char* password = "password WiFi lu";
 
 // inisialisasi web server untuk nodemcu
 ESP8266WebServer server(80);
