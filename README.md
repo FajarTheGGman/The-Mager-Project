@@ -8,7 +8,7 @@
 # Screenshot
 
 - Home Screen
-![](https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/home.jpeg)
+<img src="https://raw.githubusercontent.com/FajarTheGGman/The-Mager-Project/master/.img/home.jpeg" width="50px"/>
 
 
 - QR Scanner
