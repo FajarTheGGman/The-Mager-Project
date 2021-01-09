@@ -35,9 +35,12 @@
 </pre>
 
 # Kode QR 
+
 <pre>
-Untuk kode QR ada di sini : https://github.com/FajarTheGGman/The-Mager-Project/blob/master/assets/QR/
-<pre>
+Untuk kode QR ada di <a href="https://github.com/FajarTheGGman/The-Mager-Project/blob/master/assets/QR/">sini</a>
+</pre>
+
+
 
 # Cara install 
 
