@@ -32,6 +32,7 @@
 - Kabel Jumper
 - Sensor DHT11 
 - Buzzer
+- Relay 4 Channel
 </pre>
 
 # Kode QR 
